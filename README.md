@@ -17,7 +17,7 @@ Program sederhana berbasis Python untuk melakukan pemesanan Indomie secara inter
    ```
 2. Jalankan program:
    ```bash
-   python main.py
+   python order.py
    ```
 
 ## 🖼 Preview Program
